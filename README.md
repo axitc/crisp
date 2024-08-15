@@ -23,4 +23,4 @@ Input:
 ![input](./crisp/example/krtext.jpg)
 
 Output:
-![output](./crisp/example/crisp-krtext.jpg)
+![output](./crisp/example/crispy/crisp-krtext.png)
